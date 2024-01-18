@@ -1,4 +1,3 @@
-```markdown
 # Analysis of Big Countries
 
 ## Table Structure
@@ -52,4 +51,3 @@ The expected output would be:
 ### Explanation
 
 In this example, Afghanistan and Algeria are considered big countries because Afghanistan has a population greater than 25 million and Algeria has both a significant population and a large area.
-```
