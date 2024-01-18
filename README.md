@@ -24,9 +24,9 @@ Each folder in this repository corresponds to a specific category of problems on
 
 ## Connect with Me
 
-- **LeetCode Profile:** [nfHakim](https://leetcode.com/nfhakim/)
-- **LinkedIn:** [Naufal Hakim](https://www.linkedin.com/in/nfhakim/)
-- **GitHub:** [Naufal Hakim](https://github.com/nfhakim)
+- **LeetCode Profile:** [link](https://leetcode.com/nfhakim/)
+- **LinkedIn:** [Link](https://www.linkedin.com/in/nfhakim/)
+- **GitHub:** [Link](https://github.com/nfhakim)
   
 ## Disclaimer
 
